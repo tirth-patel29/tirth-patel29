@@ -320,18 +320,7 @@ dh-map  ─►  ShareJadPi (fork)  ─►  Arbuda Rangtali  ─►  PDF Mokli De
 
 ---
 
-## 📈 GITHUB STATISTICS
 
-<div align="center">
-
-![tirth-patel29](https://github-readme-stats.vercel.app/api?username=tirth-patel29&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth-patel29&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![tirthpatel2543](https://github-readme-stats.vercel.app/api?username=tirthpatel2543&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
 
 ## 🔭 CURRENTLY BUILDING
 
